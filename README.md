@@ -12,4 +12,3 @@ Based in Madrid today (...who knows tomorrow?)
 
 
 ## Skills
-iconos
