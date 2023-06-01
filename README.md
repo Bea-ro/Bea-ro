@@ -15,14 +15,7 @@
 
 ## Skills
 <p></p>
-<img src="./assets/html5.svg" alt="HTML5" width="30px">
-<img src="./assets/css3.svg" alt="CSS3" width="30px">
-<img src="./assets/javascript.svg" alt="JavaScript" width="30px">
-<img src="./assets/typescript.svg" alt="TypeScript" width="30px">
-<img src="./assets/react.svg" alt="React" width="30px">
-<img src="./assets/nodejs.svg" alt="NodeJS" width="30px">
-<img src="./assets/express.svg" alt="Express" width="30px">
-<img src="./assets/mongodb.svg" alt="MongoDB" width="30px">  
+<img src="./assets/html5.svg" alt="HTML5" width="30px"><img src="./assets/css3.svg" alt="CSS3" width="30px"><img src="./assets/javascript.svg" alt="JavaScript" width="30px"><img src="./assets/typescript.svg" alt="TypeScript" width="30px"><img src="./assets/react.svg" alt="React" width="30px"><img src="./assets/nodejs.svg" alt="NodeJS" width="30px"><img src="./assets/express.svg" alt="Express" width="30px"><img src="./assets/mongodb.svg" alt="MongoDB" width="30px">  
 
 <p></p>
 <br />
