@@ -30,8 +30,8 @@
 <p></p>
 <br />
 
-<div style="margin-left:20px; border:1px solid rgb(59,59,198); padding: 10px 20px; border-radius:5%;
-background-color: rgb(59,59,198,0.215); width: fit-content"> 
+<div style="margin-left:20px; border:1px solid rgb(59,59,198); padding:10px 20px; border-radius:5%;
+background-color:rgb(59,59,198,0.215); width:fit-content"> 
 <p style="margin-right:50px"></p>  
  
 ## Let's talk!                                                                                
@@ -41,7 +41,13 @@ b_a_ro@hotmail.com
 <p></p>
 </div>
 
-<div style="background-color: rgb(59,59,198,0.215); width: fit-content">
-Hola
-</div> 
+><div style="margin-left:20px"> 
+><p style="margin-right:50px"></p>  
+> 
+>## Let's talk!                                                                                
+>b_a_ro@hotmail.com
+>
+><a href="https://www.linkedin.com/in/beatrizrodriguezmaya/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="30px"></a>      
+><p></p>
+></div>
 
