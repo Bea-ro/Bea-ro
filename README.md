@@ -11,25 +11,38 @@
 
 🚀 I’m looking to work in real projects and keep on learning.  
 
+<img src="./assets/emoji-ubicacion.png" alt="MongoDB" width="16px"> Based in **Madrid**... today, who knows where tomorrow?
+
 <br />  
 
 ## Skills
 <p></p>
 <div>
-<img src="./assets/html5.svg" alt="HTML5" width="30px"><img src="./assets/css3.svg" alt="CSS3" width="30px"><img src="./assets/javascript.svg" alt="JavaScript" width="30px"><img src="./assets/typescript.svg" alt="TypeScript" width="30px"><img src="./assets/react.svg" alt="React" width="30px"><img src="./assets/nodejs.svg" alt="NodeJS" width="30px"><img src="./assets/express.svg" alt="Express" width="30px"><img src="./assets/mongodb.svg" alt="MongoDB" width="30px">  
+<img src="./assets/html5.svg" alt="HTML5" width="34px" style="margin-right:20px">
+<img src="./assets/css3.svg" alt="CSS3" width="34px" style="margin-right:20px">
+<img src="./assets/javascript.svg" alt="JavaScript" width="34px" style="margin-right:20px">
+<img src="./assets/typescript.svg" alt="TypeScript" width="34px" style="margin-right:20px">
+<img src="./assets/react.svg" alt="React" width="34px" style="margin-right:20px" style="margin-right:20px">
+<img src="./assets/nodejs.svg" alt="NodeJS" width="34px" style="margin-right:20px">
+<img src="./assets/express.svg" alt="Express" width="34px" style="margin-right:20px">
+<img src="./assets/mongodb.svg" alt="MongoDB" width="34px">  
 <div>
 <p></p>
 <br />
 
-><p></p>  
->
->## Let's talk!                                                                                
-> b_a_ro@hotmail.com
->
-><a href="https://www.linkedin.com/in/beatrizrodriguezmaya/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="30px"></a>      
-><p></p>
+<div style="display:flex">
+<div style="margin-left:20px; border:1px solid rgb(59,59,198); padding: 10px 20px; border-radius:5%;
+background-color: rgb(59,59,198,0.215)" > 
+<p style="margin-right:50px"></p>  
+ 
+## Let's talk!                                                                                
+b_a_ro@hotmail.com
+
+<a href="https://www.linkedin.com/in/beatrizrodriguezmaya/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="30px"></a>      
+<p></p>
+</div>
+</div>
 
 <br />
 <p></p>
 
-Based in **Madrid**... today, who knows where tomorrow?
