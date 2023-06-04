@@ -31,20 +31,13 @@
 <br />
 
 
-<table>
-<tr>
-<td bgcolor = # 7FFFD4 style="border-radius:3%"> 
-
 ><div style="margin-left:20px"> 
 ><p></p>  
 > 
->## Let's talk!                                                                                
->b_a_ro@hotmail.com
+>## **Let's talk!**                                                                                
+>**b_a_ro@hotmail.com**
 >
 ><a href="https://www.linkedin.com/in/beatrizrodriguezmaya/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="30px"></a>      
 ><p></p>
 ></div>
-</td> 
-</tr> 
-</table >
 
