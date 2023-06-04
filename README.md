@@ -41,6 +41,7 @@ b_a_ro@hotmail.com
 <p></p>
 </div>
 
-<br />
-<p></p>
+<div style="background-color: rgb(59,59,198,0.215); width: fit-content">
+Hola
+</div> 
 
