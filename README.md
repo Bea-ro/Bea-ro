@@ -32,7 +32,7 @@
 
 <div style="display:flex">
 <div style="margin-left:20px; border:1px solid rgb(59,59,198); padding: 10px 20px; border-radius:5%;
-background-color: rgb(59,59,198,0.215)" > 
+background-color: rgb(59,59,198,0.215)"> 
 <p style="margin-right:50px"></p>  
  
 ## Let's talk!                                                                                
