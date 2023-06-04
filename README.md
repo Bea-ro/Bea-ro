@@ -30,7 +30,9 @@
 <p></p>
 <br />
 
-<table> <tr> <td bgcolor = rgb(59,59,198,0.215) style="border-radius:3%"> 
+<table>
+<tr>
+<td bgcolor = rgb(59,59,198,0.215) style="border-radius:3%"> 
 
 ><div style="margin-left:20px"> 
 ><p></p>  
@@ -41,4 +43,7 @@
 ><a href="https://www.linkedin.com/in/beatrizrodriguezmaya/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="30px"></a>      
 ><p></p>
 ></div>
+</td> 
+</tr> 
+</table >
 
