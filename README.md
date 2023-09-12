@@ -30,8 +30,8 @@
 <p></p>
 <br />
 
-## Latest Project
-https://github.com/Bea-ro/TriaRock/tree/main
+## Front and Backend MERN Project
+https://github.com/Bea-ro/TriaRock
 
 ><div style="margin-left:20px"> 
 ><p></p>  
