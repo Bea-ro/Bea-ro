@@ -5,7 +5,7 @@
 
 <p></p> 
 
-💻 I have just "finish" (never stop...) my coding studies in Rock{theCode}.   
+💻 I have just "finished" (never stop...) my coding studies in Rock{theCode}.   
 
 💼 18 years' background in Marketing.  
 
