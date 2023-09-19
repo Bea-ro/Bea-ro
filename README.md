@@ -11,7 +11,7 @@
 
 🚀 I’m looking to work in real projects and keep on learning.  
 
-<img src="./assets/emoji-ubicacion.png" alt="MongoDB" width="16px"> Based in **Madrid**... today, who knows where tomorrow?
+<img src="./assets/emoji-ubicacion.png" alt="MongoDB" width="16px"> Based in **Madrid**.
 
 <br />  
 
