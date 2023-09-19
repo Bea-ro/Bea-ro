@@ -30,7 +30,7 @@
 <p></p>
 <br />
 
-## Front and Backend MERN Project
+## Fronted and Backend MERN Project
 https://github.com/Bea-ro/TriaRock
 
 ><div style="margin-left:20px"> 
